@@ -1,10 +1,10 @@
 
-id = "WebfishingSampleMod"
-name = "Webfishing Sample Mod"
-description = "This is a sample mod."
+id = "Webphishing"
+name = "Webphishing"
+description = "Phish tribute mod for Webfishing."
 version = "1.0.0"
 homepage = "https://github.com/NotNite/WebfishingSampleMod"
-author = "You!"
+author = "Taxman"
 
 icon = "icon.png"
 readme = "README.md"
